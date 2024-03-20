@@ -37,6 +37,12 @@ Dentre os principais pontos que consideramos como referência esses foram os qua
 
 [**User**](https://drive.google.com/drive/folders/14TbQ7O11hZK_uJ1pcxP1C2HWKQi_NegP?usp=drive_link): Responsável por gerenciar as informações do usuário de acordo com a LGPD.
 
+## RIPD - Monitoramento de Segurança
+
+*O RIPD é um instrumento importante de verificação e demonstração da conformidade do tratamento de dados pessoais realizado pela instituição e serve tanto para a análise quanto para a documentação do tratamento dos dados pessoais.*
+
+[**🔗Relatório Sistema**](https://drive.google.com/file/d/17hiQvmfRr14XLQvOGaTX2ky8tQ6J2m3X/view?usp=drive_link)
+
 ## Arquitetura 
 
 ![tech-challenge-oficial](https://github.com/FIAP-SOAT2/project-doc/assets/42720116/4503c2f9-97cb-42dd-a895-1931ec0e577d)
