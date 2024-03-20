@@ -45,7 +45,7 @@ Dentre os principais pontos que consideramos como referência esses foram os qua
 
 ![tech-challenge-oficial](https://github.com/FIAP-SOAT2/project-doc/assets/42720116/4503c2f9-97cb-42dd-a895-1931ec0e577d)
 
-Para nossa arquitetura optamos por utilizarmos o Api gateway para o gerenciamento dos três microsserviços principais (user, product e order). Dessa forma, o api gateway é responsável por encaminhar a request para o microserviço correspondente, dependendo da sua do path da requisição.
+Para nossa arquitetura optamos por utilizarmos o Api gateway para o gerenciamento dos três microsserviços principais (user, product e order). Dessa forma, o api gateway é responsável por encaminhar a request para o microserviço correspondente, dependendo do path da requisição. 
 No nosso contexto temos quatro Microsserviços sendo eles o microsserviço de (produto, user, order e o payment). Uma observação é que a comunicação com o microsserviços payment é feito utilizando o serviços de mensagerias (SQS e SNS) levando em consideração o padrão saga.
 
 ### Microsserviços User
