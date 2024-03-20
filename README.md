@@ -27,6 +27,16 @@ Dentre os principais pontos que consideramos como referência esses foram os qua
 
 **Eficiência na comunicação**: Utilizando serviços de mensageria como SQS e SNS da AWS para a comunicação baseada em eventos entre os serviços, o sistema pode se beneficiar da entrega garantida de mensagens e da capacidade de processamento assíncrono, melhorando o desempenho geral do sistema.
 
+## OWASP ZAP - Monitoramento de Segurança
+
+[**Order**](https://drive.google.com/drive/folders/1IzJNK9dAFRUawz07N6SC-hrHx6EdCPAO?usp=drive_link) : Responsável por gerenciar a jornada do pedido(checkout)
+
+[**Payment**](https://drive.google.com/drive/folders/1ilU8gDqGHmhLD10bwdFkOZxfloscgNNw?usp=drive_link): Responsável por gerenciar o pagamento (Webhook).
+
+[**Product**](https://drive.google.com/drive/folders/1Qr13CFLKTArvdCASHeSS_nUdpjLIsmCZ?usp=drive_link): Responsável por lista e exibir o cardápio.
+
+[**User**](https://drive.google.com/drive/folders/14TbQ7O11hZK_uJ1pcxP1C2HWKQi_NegP?usp=drive_link): Responsável por gerenciar as informações do usuário de acordo com a LGPD.
+
 ## Arquitetura 
 
 ![tech-challenge-oficial](https://github.com/FIAP-SOAT2/project-doc/assets/42720116/4503c2f9-97cb-42dd-a895-1931ec0e577d)
