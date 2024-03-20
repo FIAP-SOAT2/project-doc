@@ -1,5 +1,18 @@
 # Documentação Fase 5 - Tech-Challenge
 
+## SAGA PATTERN
+
+Ao longo da construção da nossa arquitetura, estabelecemos como objetivo principalmente buscar a promoção da autonomia dos serviços, reduzir o acoplamento e por fim garantir a resiliência e disponibilidade durante a interações. Entendemos que o melhor caminho seria a utilização do padrão coreografado no contexto saga pois permitiria uma abordagem eficaz, especialmente quando diferente do padrão orquestrador, onde um serviço centralizado controla o fluxo de interações, no padrão coreografado, cada serviço conhece seu papel dentro de uma transação e comunica seu estado para os outros serviços por meio de eventos. Isso permitiu a construção de uma arquitetura mais descentralizada e resiliente.
+
+Dentre os principais pontos que consideramos como referência esses foram os quais nortearam a construção do nosso projeto:
+
+**Desacoplamento e autonomia**: Cada serviço, como product, user, e payment e order opera de forma autônoma, publicando e assinando eventos sem a necessidade de um coordenador central. Isso reduz as dependências diretas entre os serviços, facilitando a manutenção, atualizações, e a escalabilidade de cada um deles de maneira independente.
+
+**Flexibilidade e adaptabilidade**: Mudanças em um serviço ou a introdução de novos serviços no ecossistema podem ser mais facilmente acomodadas, uma vez que a comunicação baseia-se em eventos. Novos microsserviços podem assinar eventos existentes sem afetar a lógica dos serviços produtores desses eventos.
+
+**Resiliência e tolerância a falhas**: Em caso de falhas temporárias, os serviços podem continuar a operar de maneira isolada, processando eventos assim que possível.
+
+**Eficiência na comunicação**: Utilizando serviços de mensageria como SQS e SNS da AWS para a comunicação baseada em eventos entre os serviços, o sistema pode se beneficiar da entrega garantida de mensagens e da capacidade de processamento assíncrono, melhorando o desempenho geral do sistema.
 
 ## Arquitetura 
 
