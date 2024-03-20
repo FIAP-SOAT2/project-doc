@@ -75,3 +75,13 @@ No nosso contexto temos quatro Microsserviços sendo eles o microsserviço de (p
 - Alarme: auto_scale_payment
 - Target Group: ecs-fargate-payment-tg 
 - Port: 4004
+
+### Network Load Balancer
+- nome: ecs-fargate-order-poc-nlb
+- target group: ecs-fargate-nlb-group
+
+### VPC LINKS
+- nome: ecs-fargarte-vpc-link
+
+### Api Gateway 
+- nome: ecs-fargate-api
