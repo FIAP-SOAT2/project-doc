@@ -10,7 +10,7 @@ No nosso contexto temos quatro Microsserviços sendo eles o microsserviço de (p
 
 ### Microsserviços User
 #### Database
--   Banco postgres na instancia o RDS:
+-   Banco postgres na instancia o RDS
 -   Nome: rds-user
 -   Security group: db_user_sg
 
