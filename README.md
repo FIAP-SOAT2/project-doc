@@ -2,7 +2,7 @@
 
 ## 🔗 Microsserviços
 
-#### Cada um dos microsserviços possuem readme individual com orientação para execução:
+#### Cada um dos microsserviços possue readme individual com orientação para execução:
 
 [**Order**](https://github.com/FIAP-SOAT2/ms-order) : Criação e gerenciamento do pedido
 
