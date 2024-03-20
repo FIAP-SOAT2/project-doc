@@ -29,17 +29,17 @@ Dentre os principais pontos que consideramos como referência esses foram os qua
 
 ## OWASP ZAP - Monitoramento de Segurança
 
-[**🔗Order**](https://drive.google.com/drive/folders/1IzJNK9dAFRUawz07N6SC-hrHx6EdCPAO?usp=drive_link) : Responsável por gerenciar a jornada do pedido(checkout)
+[**🔗Order**](https://drive.google.com/drive/folders/1IzJNK9dAFRUawz07N6SC-hrHx6EdCPAO?usp=sharing) : Responsável por gerenciar a jornada do pedido(checkout)
 
-[**🔗Payment**](https://drive.google.com/drive/folders/1ilU8gDqGHmhLD10bwdFkOZxfloscgNNw?usp=drive_link): Responsável por gerenciar o pagamento (Webhook).
+[**🔗Payment**](https://drive.google.com/drive/folders/1ilU8gDqGHmhLD10bwdFkOZxfloscgNNw?usp=sharing): Responsável por gerenciar o pagamento (Webhook).
 
-[**🔗Product**](https://drive.google.com/drive/folders/1Qr13CFLKTArvdCASHeSS_nUdpjLIsmCZ?usp=drive_link): Responsável por lista e exibir o cardápio.
+[**🔗Product**](https://drive.google.com/drive/folders/1Qr13CFLKTArvdCASHeSS_nUdpjLIsmCZ?usp=sharing): Responsável por lista e exibir o cardápio.
 
 ## RIPD - Monitoramento de Segurança
 
 *O RIPD é um instrumento importante de verificação e demonstração da conformidade do tratamento de dados pessoais realizado pela instituição e serve tanto para a análise quanto para a documentação do tratamento dos dados pessoais.*
 
-[**🔗Relatório Sistema**](https://drive.google.com/file/d/17hiQvmfRr14XLQvOGaTX2ky8tQ6J2m3X/view?usp=drive_link)
+[**🔗Relatório Sistema**](https://drive.google.com/file/d/17hiQvmfRr14XLQvOGaTX2ky8tQ6J2m3X/view?usp=sharing)
 
 ## Arquitetura 
 
