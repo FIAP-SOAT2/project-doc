@@ -122,8 +122,21 @@ No nosso contexto temos quatro Microsserviços sendo eles o microsserviço de (p
 - nome: ecs-fargate-order-poc-nlb
 - target group: ecs-fargate-nlb-group
 
+### Load balancer
+- nome: order-poc-lb
+
 ### VPC LINKS
 - nome: ecs-fargarte-vpc-link
 
 ### Api Gateway 
 - nome: ecs-fargate-api
+
+### SQS
+- nome: order-create-payment-queue
+- nome: queue_order-stock-reservation
+- nome: create-payment-queue
+
+### SNS
+- nome: order-creation-events
+- nome: order-stock-reservation
+- nome: payment-creation-events
