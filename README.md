@@ -1,5 +1,18 @@
 # Documentação Fase 5 - Tech-Challenge
 
+## Microsserviços
+
+#### Cada um dos microsserviços possuem readme individual com orientação para execução:
+
+[**Order**](https://github.com/FIAP-SOAT2/ms-order) : Criação e gerenciamento do pedido
+
+[**Payment**](https://github.com/FIAP-SOAT2/ms-payment): Processamento de pagamento e integração com api externa Mercado Pago.
+
+[**Product**](https://github.com/FIAP-SOAT2/ms-product): Cadastro de produto e gerenciamento do cardápio.
+
+[**User**](https://link-da-documentação): Cadastro de usuário e gerenciamento de dados LGPD.
+
+
 ## SAGA PATTERN
 
 Ao longo da construção da nossa arquitetura, estabelecemos como objetivo principalmente buscar a promoção da autonomia dos serviços, reduzir o acoplamento e por fim garantir a resiliência e disponibilidade durante a interações. Entendemos que o melhor caminho seria a utilização do padrão coreografado no contexto saga pois permitiria uma abordagem eficaz, especialmente quando diferente do padrão orquestrador, onde um serviço centralizado controla o fluxo de interações, no padrão coreografado, cada serviço conhece seu papel dentro de uma transação e comunica seu estado para os outros serviços por meio de eventos. Isso permitiu a construção de uma arquitetura mais descentralizada e resiliente.
