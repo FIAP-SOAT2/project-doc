@@ -35,8 +35,6 @@ Dentre os principais pontos que consideramos como referência esses foram os qua
 
 [**🔗Product**](https://drive.google.com/drive/folders/1Qr13CFLKTArvdCASHeSS_nUdpjLIsmCZ?usp=drive_link): Responsável por lista e exibir o cardápio.
 
-[**🔗User**](https://drive.google.com/drive/folders/14TbQ7O11hZK_uJ1pcxP1C2HWKQi_NegP?usp=drive_link): Responsável por gerenciar as informações do usuário de acordo com a LGPD.
-
 ## RIPD - Monitoramento de Segurança
 
 *O RIPD é um instrumento importante de verificação e demonstração da conformidade do tratamento de dados pessoais realizado pela instituição e serve tanto para a análise quanto para a documentação do tratamento dos dados pessoais.*
