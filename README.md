@@ -1,16 +1,16 @@
 # 📚 Documentação Fase 5 - Tech-Challenge
 
-## 🔗 Microsserviços
+## Microsserviços
 
 #### Cada um dos microsserviços possue readme individual com orientação para execução:
 
-[**Order**](https://github.com/FIAP-SOAT2/ms-order) : Criação e gerenciamento do pedido
+[**🔗Order**](https://github.com/FIAP-SOAT2/ms-order) : Criação e gerenciamento do pedido
 
-[**Payment**](https://github.com/FIAP-SOAT2/ms-payment): Processamento de pagamento e integração com api externa Mercado Pago.
+[**🔗Payment**](https://github.com/FIAP-SOAT2/ms-payment): Processamento de pagamento e integração com api externa Mercado Pago.
 
-[**Product**](https://github.com/FIAP-SOAT2/ms-product): Cadastro de produto e gerenciamento do cardápio.
+[**🔗Product**](https://github.com/FIAP-SOAT2/ms-product): Cadastro de produto e gerenciamento do cardápio.
 
-[**User**](https://link-da-documentação): Cadastro de usuário e gerenciamento de dados LGPD.
+[**🔗User**](https://link-da-documentação): Cadastro de usuário e gerenciamento de dados LGPD.
 
 
 ## SAGA PATTERN
@@ -29,13 +29,13 @@ Dentre os principais pontos que consideramos como referência esses foram os qua
 
 ## OWASP ZAP - Monitoramento de Segurança
 
-[**Order**](https://drive.google.com/drive/folders/1IzJNK9dAFRUawz07N6SC-hrHx6EdCPAO?usp=drive_link) : Responsável por gerenciar a jornada do pedido(checkout)
+[**🔗Order**](https://drive.google.com/drive/folders/1IzJNK9dAFRUawz07N6SC-hrHx6EdCPAO?usp=drive_link) : Responsável por gerenciar a jornada do pedido(checkout)
 
-[**Payment**](https://drive.google.com/drive/folders/1ilU8gDqGHmhLD10bwdFkOZxfloscgNNw?usp=drive_link): Responsável por gerenciar o pagamento (Webhook).
+[**🔗Payment**](https://drive.google.com/drive/folders/1ilU8gDqGHmhLD10bwdFkOZxfloscgNNw?usp=drive_link): Responsável por gerenciar o pagamento (Webhook).
 
-[**Product**](https://drive.google.com/drive/folders/1Qr13CFLKTArvdCASHeSS_nUdpjLIsmCZ?usp=drive_link): Responsável por lista e exibir o cardápio.
+[**🔗Product**](https://drive.google.com/drive/folders/1Qr13CFLKTArvdCASHeSS_nUdpjLIsmCZ?usp=drive_link): Responsável por lista e exibir o cardápio.
 
-[**User**](https://drive.google.com/drive/folders/14TbQ7O11hZK_uJ1pcxP1C2HWKQi_NegP?usp=drive_link): Responsável por gerenciar as informações do usuário de acordo com a LGPD.
+[**🔗User**](https://drive.google.com/drive/folders/14TbQ7O11hZK_uJ1pcxP1C2HWKQi_NegP?usp=drive_link): Responsável por gerenciar as informações do usuário de acordo com a LGPD.
 
 ## RIPD - Monitoramento de Segurança
 
